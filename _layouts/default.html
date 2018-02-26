@@ -9,12 +9,167 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
+  
+  <style>
+.masthead {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+    background-color: #4078c0
+}
+
+.masthead a {
+    color: rgba(255, 255, 255, 0.5)
+}
+
+.masthead a:hover {
+    color: #fff;
+    text-decoration: none
+}
+
+.masthead .masthead-logo {
+    display: inline-block;
+    font-size: 1.5rem;
+    color: #fff
+}
+
+.masthead .masthead-logo .mega-octicon {
+    float: left;
+    margin-right: .5rem
+}
+
+@media (min-width: 34em) {
+    .masthead {
+        text-align: left
+    }
+
+    .masthead .masthead-logo {
+        float: left
+    }
+}
+
+.masthead-nav {
+    margin-top: 1rem;
+    font-size: 1rem
+}
+
+.masthead-nav a {
+    display: inline-block
+}
+
+.masthead-nav a:not(:last-child) {
+    margin-right: 1.25rem
+}
+
+.masthead-nav .active {
+    color: #fff;
+    font-weight: 500
+}
+
+@media (max-width: 34em) {
+    .masthead-nav {
+        padding-top: 1rem;
+        border-top: 0.075rem solid rgba(255, 255, 255, 0.25)
+    }
+}
+
+@media (min-width: 34em) {
+    .masthead-nav {
+        float: right;
+        margin-top: .5rem
+    }
+}
+
+.container_update {
+    width: auto;
+    max-width: 1020px;
+    padding-left: 20px;
+    padding-right: 20px
+}
+
+.container_update {
+    width: 980px;
+    margin-right: auto;
+    margin-left: auto
+}
+
+.container_update::before {
+    display: table;
+    content: ""
+}
+
+.container_update::after {
+    display: table;
+    clear: both;
+    content: ""
+}
+
+.masthead .masthead-logo {
+    display: inline-block;
+    font-size: 1.5rem;
+    color: #fff
+}
+
+.masthead .masthead-logo .mega-octicon {
+    float: left;
+    margin-right: .5rem
+}
+
+@media (min-width: 34em) {
+    .masthead {
+        text-align: left
+    }
+
+    .masthead .masthead-logo {
+        float: left
+    }
+}
+
+.octicon, .mega-octicon {
+    font: normal normal normal 16px / 1 octicons;
+    display: inline-block;
+    text-decoration: none;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+.mega-octicon {
+    font-size: 32px
+}
+
+.octicon-package:before {
+    content: '\f0c4'
+}
+
+.masthead .masthead-logo .mega-octicon {
+    float: left;
+    margin-right: .5rem
+}
+</style>
+  
   <body>
       <section class="page-header">
-      <div style="float: left !important;">
-        <svg height="64" class="octicon octicon-package fill-fade-white" fill="White" viewBox="0 0 16 16" version="1.1" width="48" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 0 0-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"></path></svg>
+          <header class="masthead">
+      <div class="container_update">
+        <a href="/archive" class="masthead-logo">
+          <span class="mega-octicon octicon-package"></span>
+          Primer
+        </a>
+
+        <nav class="masthead-nav">
+          <a  href="scaffolding/">Docs</a>
+          <a  href="about">About</a>
+          <a href="https://github.com/primer/primer" target="_blank">GitHub</a>
+          <a href="https://github.com/primer/primer/blob/master/README.md#install" target="_blank">Install</a>
+        </nav>
       </div>
-        <br>&nbsp;</br>
+    </header>
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}

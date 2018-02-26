@@ -136,7 +136,7 @@ a {
   }
 
   @include small {
-    font-size: .70rem;
+    font-size: 1rem;
   }
 }
 
@@ -337,7 +337,6 @@ a {
 
 .site-footer-owner {
   display: block;
-  font-weight: bold;
 }
 
 .site-footer-credits {

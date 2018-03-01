@@ -66,18 +66,19 @@ a {
 
   @include large {
     padding: 0.75rem 1rem;
+    font-size: 0.8rem;
   }
 
   @include medium {
     padding: 0.6rem 0.9rem;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
   }
 
   @include small {
     display: block;
     width: 100%;
     padding: 0.75rem;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
 
     + .btn {
       margin-top: 1rem;
@@ -102,18 +103,19 @@ a {
 
   @include large {
     padding: 0.75rem 1rem;
+    font-size: 0.8rem;
   }
 
   @include medium {
     padding: 0.6rem 0.9rem;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
   }
 
   @include small {
     display: block;
     width: 100%;
     padding: 0.75rem;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
 
     + .btn_inverse {
       margin-top: 1rem;

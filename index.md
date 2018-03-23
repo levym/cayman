@@ -9,7 +9,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 #### [](#header-4)Our Team
 
 |:-------------|:------------------|:------|
-| David Lackner  '19  | good swedish fish | nice  |
+| ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png) David Lackner  '19  | good swedish fish | nice  |
 | Dan Grichevsky '19  | good and plenty   | nice  |
 | Michael Levy   '18  | good `oreos`      | hmm   |
 | Isabel Machlin '19  | good `zoute` drop | yumm  |

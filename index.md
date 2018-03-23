@@ -10,7 +10,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 |              |                   |       |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| Michael Levy | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |

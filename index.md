@@ -8,14 +8,14 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 #### [](#header-4)Our Team
 
-|:--------------------|:-----------------|:--------------|
-| David Lackner  '19  | Founder          | `zoute` nice  |
-| Dan Grichevsky '19  | Co-Founder       | `zoute` nice  |
-| Michael Levy   '18  | Technology       | `zoute` nice  |
-| Isabel Machlin '19  | Marketing        | `zoute` nice  |
-| Zack MacQueen  '18  | Business         | `zoute` nice  |
-| Rob Greenberg  '19  | Analyst          | `zoute` nice  |
-| Daniel Kaltman '19  | Analyst          | `zoute` nice  |
+|:--------------------|:-----------------|:----------|
+| David Lackner  '19  | Founder          | `1` nice  |
+| Dan Grichevsky '19  | Co-Founder       | `1` nice  |
+| Michael Levy   '18  | Technology       | `1` nice  |
+| Isabel Machlin '19  | Marketing        | `1` nice  |
+| Zack MacQueen  '18  | Business         | `1` nice  |
+| Rob Greenberg  '19  | Analyst          | `1` nice  |
+| Daniel Kaltman '19  | Analyst          | `1` nice  |
 
 #### [](#header-4)Header 4
 

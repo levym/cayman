@@ -65,19 +65,19 @@ a {
   }
 
   @include large {
-    padding: 0.75rem 1rem;
+    padding: 0.8rem 1rem;
     font-size: 0.8rem;
   }
 
   @include medium {
-    padding: 0.6rem 0.9rem;
+    padding: 0.8rem 0.9rem;
     font-size: 0.8rem;
   }
 
   @include small {
     display: block;
-    width: 100%;
-    padding: 0.75rem;
+    width: 80%;
+    padding: 0.8rem;
     font-size: 0.8rem;
 
     + .btn {
@@ -220,14 +220,14 @@ a {
 
   p {
     margin-bottom: 1em;
-    font-family: "Liberation Mono", Menlo, Courier, monospace;
+    font-family: "Open Sans";
     font-size: 0.8rem;
     line-height: 1.8em;
   }
 
   code {
     padding: 2px 4px;
-    font-family: "Liberation Mono", Menlo, Courier, monospace;
+    font-family: "Open Sans";
     font-size: 0.9rem;
     color: $code-text-color;
     background-color: $code-bg-color;
@@ -238,7 +238,7 @@ a {
     padding: 0.8rem;
     margin-top: 0;
     margin-bottom: 1rem;
-    font: 1rem "Liberation Mono", Menlo, Courier, monospace;
+    font-family: "Open Sans";
     color: $code-text-color;
     word-wrap: normal;
     background-color: $code-bg-color;
@@ -297,7 +297,7 @@ a {
   ul,
   ol {
     margin-top: 0;
-    font-family: "Liberation Mono", Menlo, Courier, monospace;
+    font-family: "Open Sans";
     font-size: 0.8rem;
     line-height: 1.8em;
   }
@@ -319,7 +319,7 @@ a {
 
   table {
     display: block;
-    font-family: "Liberation Mono", Menlo, Courier, monospace;
+    font-family: "Open Sans";
     font-size: 0.8rem;
     line-height: 1.8em;
     width: 100%;

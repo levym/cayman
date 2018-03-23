@@ -4,11 +4,7 @@ layout: default
 
 [back](./)
 
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+[Link to another page](another-page).
 
 ```
 The final element.

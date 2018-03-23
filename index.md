@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# [](#header-1)Header 1
+# [](#header-1)How's it goin?
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut diam quam. Proin metus lorem, gravida quis semper eget, malesuada eget ligula. Donec vitae dapibus est. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam eget maximus odio. Duis aliquam nibh neque, in accumsan massa finibus ut.
 
-#### [](#header-4)Our Team
+#### [](#header-4)Our squad
 
 |:--------------------|:-----------------|:----------|:----------|:----------|
 | David Lackner  '19  | Founder          | `1` nice  | `2` nice  | `3` nice  |

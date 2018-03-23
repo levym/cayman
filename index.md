@@ -14,7 +14,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ###### [](#header-3)Header 3
 
-| head1        | head two          | three |
+|              |                   |       |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |

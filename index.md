@@ -2,7 +2,7 @@
 layout: default
 ---
 
-##### [](#header-5)Our squad
+##### [](#header-5)Our squad:
 
 |:-----------------------|:-----------------|:----|:----|:----|
 | David Lackner  '19     | Founder          | `1` | `2` | `3` |

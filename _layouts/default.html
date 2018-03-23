@@ -166,7 +166,7 @@
         </nav></div>
       
       </header>
-      <h1 class="project-name"></h1>
+      <h1 class="project-name">Welcome</h1>
       <h2 class="project-tagline">&nbsp;</h2>
     {% if site.github.is_project_page %}
         <a href="https://join.slack.com/t/tuftscrypto/signup?x=x-309237913860-309602413525" class="btn" target="_blank">Join the conversation &nbsp;<i class="fab fa-slack fa-lg"></i></a>
@@ -174,10 +174,11 @@
     {% if site.show_downloads %}
         <a href="https://drive.google.com/open?id=1wE63Wr-SjAnLTxeyMAjsjAswP8yc41D_" target="_blank" class="btn"><i class="fab fa-google-drive"></i>&nbsp; Materials</a>
         <a href="/donate" class="btn_inverse">Donate</a>
-    {% endif %}
-    
+    {% endif %} 
   </div>
-  
+  <section class="main-content">
+      {{ content }}
+  </section>
   </body>
   </section>
 </html>

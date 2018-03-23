@@ -240,6 +240,7 @@ a {
     margin-top: 0;
     margin-bottom: 1rem;
     font-family: "Open Sans";
+    letter-spacing: 0.2px;
     color: $code-text-color;
     word-wrap: normal;
     background-color: $code-bg-color;
@@ -300,6 +301,7 @@ a {
     margin-top: 0;
     font-family: "Open Sans";
     font-size: 0.8rem;
+    letter-spacing: 0.2px;
     line-height: 1.8em;
   }
 
@@ -323,6 +325,7 @@ a {
     font-family: "Open Sans";
     font-size: 0.8rem;
     line-height: 1.8em;
+    letter-spacing: 0.2px;
     width: 100%;
     overflow: auto;
     word-break: normal;

@@ -222,7 +222,7 @@ a {
     margin-bottom: 1em;
     font-family: "Liberation Mono", Menlo, Courier, monospace;
     font-size: 0.8rem;
-    line-height: 2em;
+    line-height: 1.8em;
   }
 
   code {
@@ -297,6 +297,9 @@ a {
   ul,
   ol {
     margin-top: 0;
+    font-family: "Liberation Mono", Menlo, Courier, monospace;
+    font-size: 0.8rem;
+    line-height: 1.8em;
   }
 
   blockquote {

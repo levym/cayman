@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# [](#header-1)How's it goin?
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut diam quam. Proin metus lorem, gravida quis semper eget, malesuada eget ligula. Donec vitae dapibus est. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam eget maximus odio. Duis aliquam nibh neque, in accumsan massa finibus ut.
 
 #### [](#header-4)Our squad

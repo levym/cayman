@@ -28,7 +28,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: 'Hind', sans-serif;
-  letter-spacing: 0.3px;
+  letter-spacing: 0.4px;
   font-size: 10px;
   line-height: 1.5;
   color: $body-text-color;
@@ -216,6 +216,7 @@ a {
     margin-top: 0.8rem;
     margin-bottom: 0.8rem;
     font-family: 'Hind', sans-serif;
+    letter-spacing: 0.4px;
     font-weight: normal;
     color: $section-headings-color;
   }
@@ -223,15 +224,16 @@ a {
   p {
     margin-bottom: 1em;
     font-family: 'Hind', sans-serif;
-    letter-spacing: 0.3px;
-    font-size: 0.8rem;
+    letter-spacing: 0.4px;
+    font-size: 0.88rem;
     line-height: 1.8em;
   }
 
   code {
     padding: 2px 4px;
     font-family: 'Hind', sans-serif;
-    font-size: 0.75rem;
+    letter-spacing: 0.4px;
+    font-size: 0.88rem;
     color: $code-text-color;
     background-color: $code-bg-color;
     border-radius: 0.3rem;
@@ -242,7 +244,8 @@ a {
     margin-top: 0;
     margin-bottom: 1rem;
     font-family: 'Hind', sans-serif;
-    letter-spacing: 0.3px;
+    letter-spacing: 0.4px;
+    font-size: 0.88rem;
     color: $code-text-color;
     word-wrap: normal;
     background-color: $code-bg-color;
@@ -302,8 +305,8 @@ a {
   ol {
     margin-top: 0;
     font-family: 'Hind', sans-serif;
-    letter-spacing: 0.3px;
-    font-size: 0.8rem;
+    letter-spacing: 0.4px;
+    font-size: 0.88rem;
     letter-spacing: 0.2px;
     line-height: 1.8em;
   }
@@ -326,9 +329,9 @@ a {
   table {
     display: block;
     font-family: 'Hind', sans-serif;
-    font-size: 0.8rem;
+    letter-spacing: 0.4px;
+    font-size: 0.88rem;
     line-height: 1.8em;
-    letter-spacing: 0.3px;
     width: 100%;
     overflow: auto;
     word-break: normal;

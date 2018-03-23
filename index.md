@@ -4,7 +4,7 @@ layout: default
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut diam quam. Proin metus lorem, gravida quis semper eget, malesuada eget ligula. Donec vitae dapibus est.
 
-#### [](#header-4)Our squad
+##### [](#header-5)Our squad
 
 |:-----------------------|:-----------------|:----------|:----------|:----------|
 | David Lackner  '19     | Founder          | `1` nice  | `2` nice  | `3` nice  |
@@ -15,8 +15,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut diam quam.
 | Rob Greenberg  '19     | Analyst          | `1` nice  | `2` nice  | `3` nice  |
 | Daniel Kaltman '19     | Analyst          | `1` nice  | `2` nice  | `3` nice  |
 | Jeremy Batchelder '19  | Analyst          | `1` nice  | `2` nice  | `3` nice  |
-
-#### [](#header-4)Header 4
 
 ```
 The final element.

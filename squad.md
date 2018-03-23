@@ -15,7 +15,3 @@ layout: default
 | Jeremy Batchelder '19  | Analyst          | `1` nice  | `2` nice  | `3` nice  |
 
 [back](./)
-
-```
-The final element.
-```

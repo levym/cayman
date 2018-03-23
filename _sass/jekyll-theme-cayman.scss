@@ -27,7 +27,8 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Hind', sans-serif;
+  letter-spacing: 0.3px;
   font-size: 10px;
   line-height: 1.5;
   color: $body-text-color;
@@ -214,6 +215,7 @@ a {
   h6 {
     margin-top: 0.8rem;
     margin-bottom: 0.8rem;
+    font-family: 'Hind', sans-serif;
     font-weight: normal;
     color: $section-headings-color;
   }
@@ -221,7 +223,7 @@ a {
   p {
     margin-bottom: 1em;
     font-family: 'Hind', sans-serif;
-    letter-spacing: 0.2px;
+    letter-spacing: 0.3px;
     font-size: 0.8rem;
     line-height: 1.8em;
   }
@@ -240,7 +242,7 @@ a {
     margin-top: 0;
     margin-bottom: 1rem;
     font-family: 'Hind', sans-serif;
-    letter-spacing: 0.2px;
+    letter-spacing: 0.3px;
     color: $code-text-color;
     word-wrap: normal;
     background-color: $code-bg-color;
@@ -299,7 +301,8 @@ a {
   ul,
   ol {
     margin-top: 0;
-    font-family: "Open Sans";
+    font-family: 'Hind', sans-serif;
+    letter-spacing: 0.3px;
     font-size: 0.8rem;
     letter-spacing: 0.2px;
     line-height: 1.8em;
@@ -325,7 +328,7 @@ a {
     font-family: 'Hind', sans-serif;
     font-size: 0.8rem;
     line-height: 1.8em;
-    letter-spacing: 0.2px;
+    letter-spacing: 0.3px;
     width: 100%;
     overflow: auto;
     word-break: normal;

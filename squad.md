@@ -14,4 +14,4 @@ layout: default
 | Daniel Kaltman '19     | Analyst                | `1` | `2` | `3` |
 | Jeremy Batchelder '19  | Analyst                | `1` | `2` | `3` |
 
-[< Back](./)
+👈 [Back](./)

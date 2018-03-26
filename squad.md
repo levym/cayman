@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-👈 [Back](./)
+[Back](./)
 
 # [](#header-1)About Us
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### [](#header-3)Our squad
+## [](#header-2)Our squad
 
 |:-----------------------|:-----------------------|:----|:----|:----|
 | David Lackner  '19     | Founder                | `1` | `2` | `3` |
@@ -14,4 +14,4 @@ layout: default
 | Daniel Kaltman '19     | Analyst                | `1` | `2` | `3` |
 | Jeremy Batchelder '19  | Analyst                | `1` | `2` | `3` |
 
-👈 [Back](./)
+## [](#header-2)👈 [Back](./)

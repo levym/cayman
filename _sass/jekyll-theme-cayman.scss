@@ -36,10 +36,10 @@ body {
 
 a {
   color: $body-link-color;
-  text-decoration: none;
+  text-decoration: underline;
 
   &:hover {
-    text-decoration: underline;
+    text-decoration: none;
   }
 }
 
@@ -224,10 +224,10 @@ a {
 
   p {
     margin-bottom: 1em;
-    font-family: 'Crimson Text', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.8rem;
     letter-spacing: 0.2px;
-    font-size: 1.28rem;
-    line-height: 1.6em;
+    line-height: 1.8em;
   }
 
   code {
@@ -306,7 +306,6 @@ a {
   ol {
     margin-top: 0;
     font-family: 'Open Sans', sans-serif;
-    letter-spacing: 0.2px;
     font-size: 0.8rem;
     letter-spacing: 0.2px;
     line-height: 1.8em;
